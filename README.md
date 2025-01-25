@@ -2,6 +2,8 @@
 # Responsive Greenhouse Project Documentation
 # Introduction
 The Responsive Greenhouse is an automated system designed to monitor and control environmental factors for optimal plant growth. The system incorporates sensors, actuators, and an Arduino microcontroller to regulate temperature, humidity, and lighting conditions while providing real-time feedback on an LCD display.
+![image](https://github.com/user-attachments/assets/ad93c558-5278-45e9-905c-048d9d170d48
+
 
 # Components Used
 Arduino Uno (U1):
